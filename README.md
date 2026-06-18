@@ -1,5 +1,5 @@
 # amazon-clone-project
-# Amazon-ECE-1
+# Amazon-ECE-2
 
 A frontend Amazon clone built as part of my web development assignment.
 Built in phases over 15 days, adding features incrementally.
